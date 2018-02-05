@@ -1,6 +1,6 @@
 # Minority Report
 
-This was an interface to control a computer with the wave of a hand using a Kinect I developed on in May 2012. I wanted to clean it up (meaning, preparing a video) (and 'refactoring the code' - it is horrendous!) before uploading it here but I think I may never get to it. The main file is controller_2D.py (the other two files being half baked upgrades - a tracker using particle filters and a tracker where the actionable space is in 3D, as opposed to mostly-2D).
+This was an interface to control a computer with the wave of a hand using a Kinect I developed in May 2012. I wanted to clean it up (meaning, preparing a video) (and 'refactoring the code' - it is horrendous!) before uploading it here but I think I may never get to it. The main file is controller_2D.py (the other two files being half baked upgrades - a tracker using particle filters and a tracker where the actionable space is in 3D, as opposed to mostly-2D).
 
 The framework allowed controlling different types of services. The code as is would interact with three:
 - Banshee (Play/Pause, Next/Previous, Volume Up/Down)
